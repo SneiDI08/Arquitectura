@@ -247,7 +247,7 @@ gcc -O0 -o alu_pipeline alu_pipeline.c
 
 ## Autores
 
-> _Completar con los nombres del equipo._
+> _Isabella Agudel, Laura Jimenez, Dady Loaiza, Martin Pinzon._
 
 ## Fecha
 
